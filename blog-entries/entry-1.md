@@ -18,7 +18,7 @@ Java is basically another language that my SEP didn't cover, however we did bits
 
 ##### Thoughts and Reflection
 
-I could've taken it easy in my last project of my senior year, howver I think this is the project that counts the most. Not because it is a project that you have to thoughtfully take care of over the next 9 weeks. Or because you have to finish the SEP with a BAM. I truly think this project is the start of how you use software in your life. This independent study is how you will study or be a small part of your future. Depending on what I want to do can be all but determined right here. So stay tuned!
+I could've taken it easy in my last project of my senior year, however I think this is the project that counts the most. Not because it is a project that you have to thoughtfully take care of over the next 9 weeks. Or because you have to finish the SEP with a BAM. I truly think this project is the start of how you use software in your life. This independent study is how you will study or be a small part of your future. Depending on what I want to do can be all but determined right here. So stay tuned!
 
 
 
